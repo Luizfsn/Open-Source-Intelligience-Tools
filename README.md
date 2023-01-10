@@ -31,6 +31,11 @@ Open-source intelligence (OSINT) refers to the practice of collecting, analyzing
 ✅25. Personal data breaches >> https://lnkd.in/gvbzhceV
 ✅26. Search Engine for IoTs>> https://www.shodan.io/
 ✅27. Cyberspace Search Engine. >> https://www.zoomeye.org/
-✅28. Search Engine >> https://search.censys.io/
-✅29. Website Profiler Tool >>https://builtwith.com/
-✅30. Malware Samples and IoCs >> https://abuse.ch/
+✅-28. Search Engine >> https://search.censys.io/
+✅-29. Website Profiler Tool >>https://builtwith.com/
+✅-30. Malware Samples and IoCs >> https://abuse.ch/
+
+
+
+
+![image](https://user-images.githubusercontent.com/41551654/211624502-94067dec-3420-4355-b406-fc8b24508bc8.png)
